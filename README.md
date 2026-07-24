@@ -105,7 +105,7 @@ The KNN classifier successfully classified breast tumors into malignant and beni
 
 ---
 
-# 🔍 Key Findings
+#  Key Findings
 
 - Feature scaling significantly improves KNN performance.
 - KNN correctly classifies most tumor samples.
